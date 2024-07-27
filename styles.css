@@ -1,0 +1,151 @@
+#title{
+  background-image: url(https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?size=626&ext=jpg);
+}
+
+
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h1{
+  font-size: 2rem;
+  line-height: 1.5;
+  color: white;
+}
+
+
+
+
+.navbar{
+  padding-bottom:0 0 4.5rem;
+}
+
+
+.navbar-brand{
+  font-size: 3rem;
+  font-style: italic;
+  padding: 10p;
+}
+
+
+
+.nav-item{
+  padding: 0 18%;
+}
+
+
+.nav-link{
+  font-size: 1.2rem;
+ 
+}
+
+.big-heading{
+
+  padding-top: 10%;
+  padding-right: 20%;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+
+}
+
+
+#features{
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+}
+
+.feature-box{
+  text-align: center;
+}
+
+.icon{
+  color: #ef8172;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+.testimonial-carousel{
+
+  text-align: center;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+    color: white;
+    background-image: url(https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?size=626&ext=jpg); ;
+    
+}
+
+#press{
+  background-image: url(https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?size=626&ext=jpg);
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+#Contact{
+  padding: 5% 15%;
+  text-align: center;
+  background-image: url(https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?size=626&ext=jpg);
+  color: #fff;
+  font-style: bold;
+
+}
+
+#footer{
+  text-align: center;
+  
+  padding: 5% 7%;
+}
+
+
+h3{
+  font-size: 3rem;
+  padding-top: 3%;
+
+}
+
+
+
+h2{
+
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 3%;
+}
+
+.row{
+  padding-top: 2%;
+}
+
+h3{
+
+  font-size: 1.5rem;
+}
+
+
+p{
+  color: grey;
+}
